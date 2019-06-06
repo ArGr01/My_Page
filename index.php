@@ -12,6 +12,6 @@
       </div>
       <form action = "registration login and session using file handling" method = "post">
         <button class="sign">Sign in</button>
-      </form>>
+      </form>
    </body>
 </html>
